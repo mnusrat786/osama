@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I have a diverse skill set in various cutting-edge technologies. Below is a showcase of some of the projects I've worked on.
 
----
+
 
 ## About Me
 
@@ -16,4 +16,4 @@ I specialize in:
 - Leading cross-functional teams to deliver high-impact projects on time and within budget.
 - Implementing cloud infrastructure and DevOps practices to optimize performance and reduce costs.
 
----
+
