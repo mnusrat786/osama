@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I have a diverse skill set in various cutting-edge
 
 ## About Me
 
-👨‍💼 **Profession:** Design Engineer 
+👨‍💼 **Profession:** AI Engineer 
 🔧 **Skills:** Python, C++, AWS, AWS Lambda, Flask, Azure, TFLite, C++, Docker, Generative AI, Computer Vision, Image Processing
 
-I specialize in:
+I specialize in
 - Developing scalable, secure, and efficient solutions tailored to client needs.
 - Creating innovative AI models and integrating them into practical applications.
 - Enhancing user experience through cutting-edge web and mobile technologies.
