@@ -1,6 +1,6 @@
 # Muhammad Osama Nusrat
 
-Welcome to my GitHub profile! I have a diverse skill set in various cutting-edge technologies. Below is a showcase of some of the projects I've worked on.
+Welcome to my GitHub profile! I have a diverse skill set in various cutting-edge technologies. Below is a showcase of some of the projects I have worked on.
 
 
 
