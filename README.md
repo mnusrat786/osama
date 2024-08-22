@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I have a diverse skill set in various cutting-edge
 I specialize in
 - Developing scalable, secure, and efficient solutions tailored to client needs.
 - Creating innovative AI models and integrating them into practical applications.
-- Enhancing user experience through cutting-edge web applications.
-- Leading cross-functional teams to deliver high-impact projects on time and within budget.
+- Enhancing user experience through cutting edge web applications.
+- Leading cross-functional teams to deliver high impact projects on time and within budget.
 - Implementing cloud infrastructure and DevOps practices to optimize performance and reduce costs.
 
 
