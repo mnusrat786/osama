@@ -16,6 +16,7 @@ I specialize in
 - Leading cross-functional teams to deliver high impact projects on time and within budget.
 - Implementing cloud infrastructure and DevOps practices to optimize performance and reduce costs.
 
-** Projects**
+## Projects
+
 
 
