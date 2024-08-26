@@ -18,7 +18,7 @@ I specialize in
 
 ## Projects
 
-## Project Title: 
+## Project 1: 
 
 Facial Recognition API for a Picture Sharing Mobile Application
 
@@ -38,6 +38,28 @@ Achieved an accuracy rate exceeding 99% in facial recognition, ensuring high sec
 ## Outcome: 
 
 The API was successfully deployed, significantly improving the app's security and user engagement by providing seamless and accurate facial recognition capabilities.
+
+## Project 2:
+
+Automatic Parking Ticket Generator
+
+## Overview: 
+
+Developed an automated parking ticket generation system that records vehicle entry and exit times, identifies vehicle types, and calculates parking fees based on the duration of stay.
+
+## Key Technologies:
+
+YOLOv7: Utilized YOLOv7 object detection model to recognize vehicle license plates and classify vehicle types (e.g., sedan, SUV, van).
+OCR: Applied Optical Character Recognition (OCR) to extract and read license plate numbers from detected plates. The extracted numbers were then stored in a database for further processing.
+
+## Features:
+
+Vehicle Detection: Detected and classified vehicles in real-time using YOLOv7.
+License Plate Recognition: Extracted license plate numbers using OCR and recorded them in the system.
+Time Tracking: Logged entry and exit times for each vehicle.
+Billing Calculation: Calculated total parking charges based on the duration of each vehicle's stay in the parking facility.
+Outcome: The system efficiently automated the process of parking ticket generation, enhanced accuracy in vehicle identification and billing, and streamlined the overall parking management process.
+
 
 
 
