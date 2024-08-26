@@ -18,5 +18,26 @@ I specialize in
 
 ## Projects
 
+## Project Title: 
+
+Facial Recognition API for a Picture Sharing Mobile Application
+
+## Overview: 
+I developed a facial recognition API integrated into a picture-sharing mobile application. The API was designed to accurately identify and verify users based on facial features, ensuring perfect user experiences.
+
+## Key Technologies:
+
+DLIB: Utilized the DLIB library, incorporating the FaceNet model for face recognition.
+FaceNet Model: Extracted 512 distinctive facial features , providing high accuracy and reliability.
+Mediapipe Model: Implemented the Mediapipe model to complement FaceNet by extracting 468 facial landmarks, enhancing the precision of the facial recognition process.
+
+## Achievements:
+
+Achieved an accuracy rate exceeding 99% in facial recognition, ensuring high security and user satisfaction.
+
+## Outcome: 
+
+The API was successfully deployed, significantly improving the app's security and user engagement by providing seamless and accurate facial recognition capabilities.
+
 
 
